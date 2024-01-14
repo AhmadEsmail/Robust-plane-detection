@@ -1,8 +1,5 @@
 /* PLY format writer
- * 
- * Implemented by Levente Hajder
- * hajder@inf.elte.hu
- * 30-06-2021
+ 
  */
 
 #include "PLYWriter.h"
