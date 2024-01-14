@@ -1,8 +1,4 @@
 /* Plane Estimators
- * 
- * Implemented by Levente Hajder
- * hajder@inf.elte.hu
- * 01-07-2021
  */
 
 #include "PlaneEstimation.h"
