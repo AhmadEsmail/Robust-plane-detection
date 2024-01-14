@@ -6,6 +6,12 @@ finding the three most dominant planes by Sequential RANSAC (SeqRANSAC) algorith
 it finds a plane by RANSAC, then the plane points are removed from the dataset, and RANSAC method is run again on the rest of the points. The plane detection and removal can be iterated many times. In this assignment, the three most dominant plane should be found. 
 
 # The LiDAR clouds(inputs):
+![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/tunnel00.png)
+![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/street00.png)
+![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/chainBridge00.png)
+
+
+# The Results:
 ![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/tunnel.PNG)
 ![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/street.PNG)
 ![Project Logo](https://github.com/AhmadEsmail/Robust-plane-detection/blob/main/chainbridge.PNG)
