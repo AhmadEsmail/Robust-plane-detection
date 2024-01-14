@@ -1,8 +1,5 @@
 /* Matrix Reader and Writer class
- * 
- * Implemented by Levente Hajder
- * hajder@inf.elte.hu
- * 2015
+ 
  */
 
 
